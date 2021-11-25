@@ -11,15 +11,13 @@ def menu():
 ....##....##.....##.##.....##.##.......##....##.##....##
 ....##.....#######...#######..########..######...######.
 ========================================
-Created By AnonHacker
-Channel: youtube.com/kalinuxx
-Facebook: facebook.com/kalinuxtutorials
-Ver: 2.0
+Created By Termux
+Ver: 1.0
 ----
-ONLY FOR TERMUX!
+SADACE TERMUX!
 ----
 ==========================================
-00. Turn your Android into Hacking Machine.
+00. Android'inizi Hacking Makinesine Dönüştürün.
 ------------------------------------------
 1. Install Nmap 
 2. Install Hydra
